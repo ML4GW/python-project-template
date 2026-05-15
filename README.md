@@ -4,6 +4,7 @@
 [![codecov](https://codecov.io/gh/ML4GW/my-package/branch/main/graph/badge.svg)](https://codecov.io/gh/ML4GW/my-package)
 [![Documentation](https://img.shields.io/badge/docs-gh--pages-blue)](https://ml4gw.github.io/my-package)
 [![PyPI](https://img.shields.io/pypi/v/my-package)](https://pypi.org/project/my-package/)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/my-package)](https://img.shields.io/pypi/pyversions/my-package)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
 A short description of what my-package does.

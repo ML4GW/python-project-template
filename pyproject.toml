@@ -65,5 +65,3 @@ addopts = "--cov=mypackage --cov-report=xml"
 [tool.coverage.run]
 source = ["mypackage"]
 relative_files = true
-
-
